@@ -1,0 +1,8 @@
+{
+  "name": "eddystone-ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "626d4ed9"
+}
